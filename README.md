@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Gülzade Evni</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Python, Java**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **AI, Deep Learning, Machine Learning, NLP, Spring Boot**
+- 🌱 I’m currently learning **AI, Deep Learning, Machine Learning, NLP**
 
 - 📫 How to reach me **gulzadevni@gmail.com**
 
