@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="http://uploads2.wikiart.org/images/louis-wain/been-through-the-wars.jpg" alt="Been Through the Wars" width="200" height="300">
+  <img src="https://github.com/user-attachments/assets/0022eea8-26af-4159-95f3-930fc130abb8" alt="catt" width="200" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Gülzade Evni</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
